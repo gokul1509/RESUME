@@ -1,7 +1,7 @@
 # RESUME
 # Gokul S.C's Resume
 
-![Profile Picture](link_to_your_profile_picture)
+![Profile Picture]()
 
 ## Introduction
 Hello there! 👋 Welcome to my GitHub repository containing my resume. My name is Gokul S.C, and I am an aspiring Electrical & Communication Engineer with a passion for innovation and problem-solving. This readme file serves as a brief overview of my educational background, projects, skills, achievements, and interests. For more details, please refer to the sections below.
