@@ -1,8 +1,9 @@
 
 ╭──────────────────────────────╮
-│   GOKUL S.C's RESUME                              │
+│   GOKUL S.C's RESUME        │
 ╰──────────────────────────────╯
 ![Profile Picture](https://github.com/gokul1509/RESUME/assets/118507112/14625ee4-a676-4483-9181-4d0351212e1e)
+
 👨‍💻 ABOUT ME
 -----------------------
 Passionate Electrical & Communication Engineer | Tech Enthusiast | Innovator
