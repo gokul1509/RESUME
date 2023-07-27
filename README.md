@@ -1,5 +1,7 @@
-# Gokul S.C's Resume
 
+###################################################################################
+#                                Gokul S.C's Resume                                #
+###################################################################################
 
 ![Profile Picture](https://github.com/gokul1509/RESUME/assets/118507112/14625ee4-a676-4483-9181-4d0351212e1e)
 
@@ -67,3 +69,5 @@ For detailed project information and certificates, please refer to this [Google 
 For more code samples and projects, you can explore my GitHub repository: [https://github.com/gokul1509/gokul1509.git](https://github.com/gokul1509/gokul1509.git)
 
 Feel free to reach out to me for collaboration, project ideas, or exciting opportunities! Let's connect and build something extraordinary together! :rocket:
+
+###################################################################################
