@@ -48,7 +48,7 @@ With a strong desire to succeed, I am determined to apply my technical acumen an
 For detailed project information and certificates, please refer to this [Google Drive link](https://drive.google.com/drive/folders/1ELywtKvBzUwJLVFXFZd663C4hpSVtUcr?usp=sharing).
 
 ## :page_with_curl: Patent Publication
-- Virus Detection Kit
+- Dynamic Wireless Charging Station for EV
 
 ## :tada: Extra-Curricular Activities
 - Proficient in ANSYS HFSS, Arduino IDE, and Xpedition PCB Design tools.
